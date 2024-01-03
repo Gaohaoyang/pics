@@ -407,3 +407,9 @@ https://gaohaoyang.github.io/2021/03/01/spring-animation-framer-motion/
 <!-- slide -->
 
 # Thanks
+
+---
+
+Haoyang Gao
+
+2023.11.17
