@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "compress-pics": "^1.1.7"
+    "compress-pics": "^1.1.24"
   }
 }
